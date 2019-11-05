@@ -12,7 +12,7 @@ blurb:
 intro:
   heading: What we offer
   text: >-
-    Finding the right words to convey our point is often our signature. This
+    Finding the right words to convey the point is often our signature. This
     mirrors the digital world as well. Through our words, we help you stand out
     in the crowd and create a bang in the world of content.
 products: []
@@ -22,7 +22,7 @@ values:
     Drafting and delivering compelling content with no room for error is our
     motto. We play around with words and create a lasting impact on the readers.
     Whether it is a call to action copy or fact sheet, simplicity is our key.
-    Coupled with this principle,  competing with our deadlines is our favorite
+    Coupled with this principle,  competing with deadlines is our favorite
     hobby.
 ---
 
