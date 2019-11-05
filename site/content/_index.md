@@ -13,8 +13,8 @@ intro:
   heading: What we offer
   text: >-
     Finding the right words to convey the point is often our signature. This
-    mirrors the digital world as well. Through our words, we help you stand out
-    in the crowd and create a bang in the world of content.
+    mirrors the digital world as well. Through the magic of words, we help you
+    stand out in the crowd and create a bang in the world of content.
 products: []
 values:
   heading: Our values
