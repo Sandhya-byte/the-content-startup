@@ -19,9 +19,10 @@ products: []
 values:
   heading: Our values
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Drafting and delivering compelling content with no room for error is our
+    motto. We play around with words and create a lasting impact on the readers.
+    Whether it is a call to action copy or fact sheet, simplicity is our key.
+    Coupled with this principle,  competing with our deadlines is our favorite
+    hobby.
 ---
 
