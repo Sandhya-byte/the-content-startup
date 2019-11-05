@@ -5,9 +5,9 @@ image: /img/logo1.png
 blurb:
   heading: Why us?
   text: >-
-    Finding the right words is a job half well-done. We aid in finding those
-    words, punctuations, sentences, and phrases that reflect your mission and
-    vision of your venture. So, a happy welcome to 
+    Finding the right words is a job half done. We aid in finding those words,
+    punctuations, sentences, and phrases that reflect your mission and vision of
+    your venture. So, a happy welcome to 
                                              The ContentStartup.com 
 intro:
   heading: What we offer
