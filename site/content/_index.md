@@ -1,7 +1,7 @@
 ---
 title: The Content Startup
 subtitle: Drafting a content with a bang
-image: /img/logo1.png
+image: /img/s.jpg
 blurb:
   heading: Why us?
   text: >-
