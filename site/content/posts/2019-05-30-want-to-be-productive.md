@@ -31,7 +31,7 @@ Concentrate on one single task first( it is easy to say and harder to do, I know
 
 Time yourself. Whenever, you take on a job to complete, be mindful of the time it takes to finish. This regular practice will help in shortening your tasks and completing them in shorter amounts of time. It helps you identify patterns of where you are slowing down or where is the danger zone.
 
-<img class="wp-image-415 aligncenter" src="http://wp.docker.localhost:8000/wp-content/uploads/2019/05/productive2.jpg" alt="productive2.jpg" width="375" height="321" />
+<img class="wp-image-415 aligncenter" src="/wp-content/uploads/2019/05/productive2.jpg" alt="productive2.jpg" width="375" height="321" />
 
 **Fourth:**
 

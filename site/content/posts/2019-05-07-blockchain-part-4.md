@@ -20,7 +20,7 @@ Hello everyone, hope all are having a great time during your summer holidays. Fi
 
 <a href="https://sandhyasthoughtsblog.wordpress.com/2019/03/10/blockchain-part-3/" target="_blank" rel="noopener noreferrer">Blockchain-Part 3</a>
 
-<img class="alignnone size-full wp-image-403" src="http://wp.docker.localhost:8000/wp-content/uploads/2019/05/capture.png" alt="Capture" width="754" height="367" srcset="http://wp.docker.localhost:8000/wp-content/uploads/2019/05/capture.png 754w, http://wp.docker.localhost:8000/wp-content/uploads/2019/05/capture-300x146.png 300w" sizes="(max-width: 754px) 100vw, 754px" />
+<img class="alignnone size-full wp-image-403" src="/wp-content/uploads/2019/05/capture.png" alt="Capture" width="754" height="367" srcset="/wp-content/uploads/2019/05/capture.png 754w, /wp-content/uploads/2019/05/capture-300x146.png 300w" sizes="(max-width: 754px) 100vw, 754px" />
 
 Today, we are going to discuss different models of blockchain. Blockchain is a very broad concept that has divided into several models as per the user&#8217;s requirement. The blockchains model are differentiated on the following parameters:
 

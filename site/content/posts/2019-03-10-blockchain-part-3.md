@@ -19,7 +19,7 @@ categories:
 
 Hello everyone, hope all are enjoying a hectic Sunday. Surprised! It is after all the seasons of exams, we are busy studying our kids&#8217; syllabus. I am on the same boat as well enjoying the joys of parenting.
 
-<figure id="attachment_378" aria-describedby="caption-attachment-378" style="width: 1880px" class="wp-caption alignnone"><img class="alignnone size-full wp-image-378" src="http://wp.docker.localhost:8000/wp-content/uploads/2019/03/pexels-photo-373465.jpeg" alt="blur book girl hands" width="1880" height="1253" srcset="http://wp.docker.localhost:8000/wp-content/uploads/2019/03/pexels-photo-373465.jpeg 1880w, http://wp.docker.localhost:8000/wp-content/uploads/2019/03/pexels-photo-373465-300x200.jpeg 300w, http://wp.docker.localhost:8000/wp-content/uploads/2019/03/pexels-photo-373465-1024x682.jpeg 1024w, http://wp.docker.localhost:8000/wp-content/uploads/2019/03/pexels-photo-373465-768x512.jpeg 768w, http://wp.docker.localhost:8000/wp-content/uploads/2019/03/pexels-photo-373465-1536x1024.jpeg 1536w, http://wp.docker.localhost:8000/wp-content/uploads/2019/03/pexels-photo-373465-1200x800.jpeg 1200w" sizes="(max-width: 1880px) 100vw, 1880px" /><figcaption id="caption-attachment-378" class="wp-caption-text">Photo by Leah Kelley on <a href="https://www.pexels.com/photo/blur-book-girl-hands-373465/" rel="nofollow">Pexels.com</a></figcaption></figure>
+<figure id="attachment_378" aria-describedby="caption-attachment-378" style="width: 1880px" class="wp-caption alignnone"><img class="alignnone size-full wp-image-378" src="/wp-content/uploads/2019/03/pexels-photo-373465.jpeg" alt="blur book girl hands" width="1880" height="1253" srcset="/wp-content/uploads/2019/03/pexels-photo-373465.jpeg 1880w, /wp-content/uploads/2019/03/pexels-photo-373465-300x200.jpeg 300w, /wp-content/uploads/2019/03/pexels-photo-373465-1024x682.jpeg 1024w, /wp-content/uploads/2019/03/pexels-photo-373465-768x512.jpeg 768w, /wp-content/uploads/2019/03/pexels-photo-373465-1536x1024.jpeg 1536w, /wp-content/uploads/2019/03/pexels-photo-373465-1200x800.jpeg 1200w" sizes="(max-width: 1880px) 100vw, 1880px" /><figcaption id="caption-attachment-378" class="wp-caption-text">Photo by Leah Kelley on <a href="https://www.pexels.com/photo/blur-book-girl-hands-373465/" rel="nofollow">Pexels.com</a></figcaption></figure>
 
 Anyways, the topic of this blog is Blockchain part 3 where I will be penning down my understanding of the subject.
 
@@ -29,7 +29,7 @@ Blockchain records are shared with only specific participants and are a string o
 
 Whereas DLT is a decentralized(no overseeing authority) database that can be accessed by anyone and is very transparent in nature. Without any regulators, the DLT is solely managed by its participants. DLT stores data gives access and allows data modification. It ensures greater transparency and less vulnerable to attacks.
 
-<img class="alignnone size-full wp-image-386" src="http://wp.docker.localhost:8000/wp-content/uploads/2019/03/capture.png" alt="Capture.PNG" width="735" height="379" srcset="http://wp.docker.localhost:8000/wp-content/uploads/2019/03/capture.png 735w, http://wp.docker.localhost:8000/wp-content/uploads/2019/03/capture-300x155.png 300w" sizes="(max-width: 735px) 100vw, 735px" />
+<img class="alignnone size-full wp-image-386" src="/wp-content/uploads/2019/03/capture.png" alt="Capture.PNG" width="735" height="379" srcset="/wp-content/uploads/2019/03/capture.png 735w, /wp-content/uploads/2019/03/capture-300x155.png 300w" sizes="(max-width: 735px) 100vw, 735px" />
 
 Image credits: Blockkeycapital
 
@@ -64,7 +64,7 @@ The answer to all problems will only be realized as time goes and time does go. 
 
 One that final note, here is a thought:
 
-<img class="alignnone size-full wp-image-387" src="http://wp.docker.localhost:8000/wp-content/uploads/2019/03/capture-1.png" alt="Capture.PNG" width="749" height="391" srcset="http://wp.docker.localhost:8000/wp-content/uploads/2019/03/capture-1.png 749w, http://wp.docker.localhost:8000/wp-content/uploads/2019/03/capture-1-300x157.png 300w" sizes="(max-width: 749px) 100vw, 749px" />
+<img class="alignnone size-full wp-image-387" src="/wp-content/uploads/2019/03/capture-1.png" alt="Capture.PNG" width="749" height="391" srcset="/wp-content/uploads/2019/03/capture-1.png 749w, /wp-content/uploads/2019/03/capture-1-300x157.png 300w" sizes="(max-width: 749px) 100vw, 749px" />
 
 As usual, Namaste, Au Revoir, Sayonara and a simple Vanakkam to my readers out there where ever you are and whoever you are.
 
