@@ -3,7 +3,6 @@ title: Retirement blues
 author: admin
 type: post
 date: 2018-03-09T05:17:45+00:00
-url: /?p=240
 publicize_linkedin_url:
   - 'https://www.linkedin.com/updates?discuss=&scope=634628925&stype=M&topic=6377744037172047872&type=U&a=YZVK'
 timeline_notification:

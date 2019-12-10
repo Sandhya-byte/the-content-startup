@@ -3,7 +3,6 @@ title: Blockchain-Part 4
 author: admin
 type: post
 date: 2019-05-07T15:12:08+00:00
-url: /?p=400
 timeline_notification:
   - 1557241931
 publicize_twitter_user:

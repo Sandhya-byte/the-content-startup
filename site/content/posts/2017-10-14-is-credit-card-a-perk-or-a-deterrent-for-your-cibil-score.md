@@ -3,7 +3,6 @@ title: Is credit card a perk or a deterrent for your CIBIL score?
 author: admin
 type: post
 date: 2017-10-14T17:32:59+00:00
-url: /?p=164
 categories:
   - My rantings
 

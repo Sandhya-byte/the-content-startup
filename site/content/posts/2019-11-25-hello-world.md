@@ -3,7 +3,6 @@ title: Hello world!
 author: admin
 type: post
 date: 2019-11-25T09:26:19+00:00
-url: /?p=1
 categories:
   - Uncategorized
 

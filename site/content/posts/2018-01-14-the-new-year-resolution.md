@@ -3,7 +3,6 @@ title: The new year resolution
 author: admin
 type: post
 date: 2018-01-14T16:51:46+00:00
-url: /?p=228
 timeline_notification:
   - 1515948709
 publicize_twitter_user:

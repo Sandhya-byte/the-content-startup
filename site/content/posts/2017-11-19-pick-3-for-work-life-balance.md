@@ -3,7 +3,6 @@ title: Pick 3 for work-life balance
 author: admin
 type: post
 date: 2017-11-19T16:30:51+00:00
-url: /?p=219
 featured_image: /wp-content/uploads/2017/08/person-smartphone-office-table-1200x800.jpeg
 categories:
   - My rantings

@@ -3,7 +3,6 @@ title: Odo-Rite,a fragrant freshner for our home and office
 author: admin
 type: post
 date: 2017-10-29T08:26:11+00:00
-url: /?p=178
 categories:
   - My rantings
 

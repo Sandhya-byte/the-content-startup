@@ -3,7 +3,6 @@ title: new job titles
 author: admin
 type: post
 date: 2017-09-03T18:10:32+00:00
-url: /?p=58
 categories:
   - My rantings
 

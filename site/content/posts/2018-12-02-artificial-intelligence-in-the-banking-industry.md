@@ -3,7 +3,6 @@ title: Artificial Intelligence in the banking industry
 author: admin
 type: post
 date: 2018-12-02T11:58:26+00:00
-url: /?p=319
 featured_image: /wp-content/uploads/2018/11/capture.jpg
 timeline_notification:
   - 1543752075

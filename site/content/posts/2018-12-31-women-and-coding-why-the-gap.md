@@ -3,7 +3,6 @@ title: Women and coding – why the gap?
 author: admin
 type: post
 date: 2018-12-31T11:43:27+00:00
-url: /?p=344
 featured_image: /wp-content/uploads/2018/12/Women-tech-850x476.jpg
 timeline_notification:
   - 1546256609

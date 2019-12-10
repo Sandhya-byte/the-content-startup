@@ -3,7 +3,6 @@ title: Blockchain-Part 3
 author: admin
 type: post
 date: 2019-03-10T14:59:41+00:00
-url: /?p=377
 featured_image: /wp-content/uploads/2019/03/pexels-photo-164686-1200x798.jpeg
 timeline_notification:
   - 1552229984

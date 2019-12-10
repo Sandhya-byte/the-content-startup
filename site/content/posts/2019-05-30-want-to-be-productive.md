@@ -3,7 +3,6 @@ title: Want to be productive?
 author: admin
 type: post
 date: 2019-05-30T15:34:59+00:00
-url: /?p=405
 featured_image: /wp-content/uploads/2019/05/productive1.jpg
 timeline_notification:
   - 1559230453

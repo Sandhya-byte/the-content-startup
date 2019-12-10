@@ -3,7 +3,6 @@ title: my first homemade chocolate
 author: admin
 type: post
 date: 2017-12-14T16:16:47+00:00
-url: /?p=225
 publicize_twitter_user:
   - Sandhyasthought
 categories:

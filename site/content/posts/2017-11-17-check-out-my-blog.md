@@ -3,7 +3,6 @@ title: Check out my blog
 author: admin
 type: post
 date: 2017-11-17T17:26:59+00:00
-url: /?p=217
 categories:
   - My rantings
 

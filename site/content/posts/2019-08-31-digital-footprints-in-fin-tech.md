@@ -4,7 +4,6 @@ author: admin
 type: post
 date: 2019-08-31T08:16:15+00:00
 excerpt: "My understanding of Io T's role in fin tech ecosystem"
-url: /?p=505
 featured_image: /wp-content/uploads/2019/08/pexels-photo-1148820-1200x801.jpeg
 timeline_notification:
   - 1567239378

@@ -3,7 +3,6 @@ title: Artificial Intelligence
 author: admin
 type: post
 date: 2018-10-03T16:00:25+00:00
-url: /?p=307
 featured_image: /wp-content/uploads/2018/10/ai-slideshow-solve-problemsa-712.png
 timeline_notification:
   - 1538582687

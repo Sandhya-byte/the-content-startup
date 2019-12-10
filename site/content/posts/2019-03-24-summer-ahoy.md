@@ -3,7 +3,6 @@ title: Summer Ahoy!
 author: admin
 type: post
 date: 2019-03-24T11:51:22+00:00
-url: /?p=391
 featured_image: /wp-content/uploads/2019/03/summer.png
 timeline_notification:
   - 1553428287

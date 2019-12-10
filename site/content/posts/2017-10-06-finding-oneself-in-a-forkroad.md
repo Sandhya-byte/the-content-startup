@@ -3,7 +3,6 @@ title: finding oneself in a forkroad
 author: admin
 type: post
 date: 2017-10-06T17:13:01+00:00
-url: /?p=81
 categories:
   - My rantings
 

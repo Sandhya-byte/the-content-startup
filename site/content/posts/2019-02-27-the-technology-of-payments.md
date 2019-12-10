@@ -3,7 +3,6 @@ title: The technology of payments
 author: admin
 type: post
 date: 2019-02-27T12:11:56+00:00
-url: /?p=362
 featured_image: /wp-content/uploads/2019/02/merchants-choice-card-services-llc.png
 timeline_notification:
   - 1551269519

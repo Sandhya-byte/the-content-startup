@@ -3,7 +3,6 @@ title: Communication part2
 author: admin
 type: post
 date: 2019-06-12T09:18:11+00:00
-url: /?p=429
 featured_image: /wp-content/uploads/2019/06/c1.png
 timeline_notification:
   - 1560331095

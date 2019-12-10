@@ -3,7 +3,6 @@ title: What is venture capital?
 author: admin
 type: post
 date: 2018-07-20T17:46:32+00:00
-url: /?p=296
 featured_image: /wp-content/uploads/2018/07/venture-capital.jpeg
 timeline_notification:
   - 1532108794

@@ -3,7 +3,6 @@ title: 'Content Writing- An Introduction'
 author: admin
 type: post
 date: 2018-05-31T16:53:15+00:00
-url: /?p=267
 timeline_notification:
   - 1527785598
 publicize_twitter_user:

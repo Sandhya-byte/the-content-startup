@@ -3,7 +3,6 @@ title: The heads and tails of cryptocurrency
 author: admin
 type: post
 date: 2018-08-08T16:58:57+00:00
-url: /?p=295
 featured_image: /wp-content/uploads/2018/08/cryptocurrency.jpg
 timeline_notification:
   - 1533747563

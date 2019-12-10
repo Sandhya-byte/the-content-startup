@@ -3,7 +3,6 @@ title: What is mutual fund?
 author: admin
 type: post
 date: 2017-11-01T16:20:20+00:00
-url: /?p=183
 categories:
   - My rantings
 

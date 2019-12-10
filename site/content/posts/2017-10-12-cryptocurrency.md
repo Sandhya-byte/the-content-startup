@@ -3,7 +3,6 @@ title: Cryptocurrency
 author: admin
 type: post
 date: 2017-10-12T14:07:48+00:00
-url: /?p=106
 categories:
   - My rantings
 

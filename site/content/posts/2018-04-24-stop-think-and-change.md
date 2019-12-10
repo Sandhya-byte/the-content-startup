@@ -3,7 +3,6 @@ title: Stop , Think and Change
 author: admin
 type: post
 date: 2018-04-24T17:41:15+00:00
-url: /?p=252
 publicize_twitter_user:
   - Sandhyasthought
 publicize_linkedin_url:

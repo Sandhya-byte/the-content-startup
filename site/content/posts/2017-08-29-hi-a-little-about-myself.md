@@ -3,7 +3,6 @@ title: hi! a little about myself
 author: admin
 type: post
 date: 2017-08-29T05:41:15+00:00
-url: /?p=29
 categories:
   - My rantings
 

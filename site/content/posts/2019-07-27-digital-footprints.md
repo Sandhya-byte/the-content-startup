@@ -3,7 +3,6 @@ title: Digital footprints
 author: admin
 type: post
 date: 2019-07-27T04:30:33+00:00
-url: /?p=468
 timeline_notification:
   - 1564201905
 publicize_twitter_user:

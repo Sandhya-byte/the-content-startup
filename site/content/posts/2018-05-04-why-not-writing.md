@@ -3,7 +3,6 @@ title: Why not writing?
 author: admin
 type: post
 date: 2018-05-04T16:51:57+00:00
-url: /?p=257
 timeline_notification:
   - 1525452719
 publicize_twitter_user:
