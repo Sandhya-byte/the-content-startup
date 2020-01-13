@@ -3,7 +3,7 @@ title: An ode to the hawai-hawai girl
 author: admin
 type: post
 date: 2018-02-26T06:58:29+00:00
-featured_image: /wp-content/uploads/2018/02/7a47a7d1-9684-4590-8f84-d7066a94faed_1519504922.jpeg
+thumbnail: /wp-content/uploads/2018/02/7a47a7d1-9684-4590-8f84-d7066a94faed_1519504922.jpeg
 timeline_notification:
   - 1519628312
 publicize_twitter_user:

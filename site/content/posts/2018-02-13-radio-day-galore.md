@@ -3,7 +3,7 @@ title: Radio day galore
 author: admin
 type: post
 date: 2018-02-13T14:13:57+00:00
-featured_image: /wp-content/uploads/2018/02/vintage-technology-music-old-1200x800.jpg
+thumbnail: /wp-content/uploads/2018/02/vintage-technology-music-old-1200x800.jpg
 timeline_notification:
   - 1518531240
 publicize_twitter_user:

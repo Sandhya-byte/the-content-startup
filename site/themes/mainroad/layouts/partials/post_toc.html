@@ -1,8 +1,8 @@
-{{ if .Param "toc" }}
+{{  if and (gt .WordCount 400 ) (.Params.toc)  }}
 <div class="post__toc toc">
-	<div class="toc__title">{{ T "toc_title" }}</div>
-	<div class="toc__menu">
-		{{ .TableOfContents }}
+    <div class="toc__title">{{.Title}}</div>
+    <div class="toc__menu">
+	{{ .TableOfContents }}
 	</div>
 </div>
 {{ end }}

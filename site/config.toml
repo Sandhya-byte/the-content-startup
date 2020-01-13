@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Mainroad"
+title = "Content Startup"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -7,8 +7,8 @@ disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  name = "Sandhya Mani"
+  bio = "Sandhya works as a content manager in Big Corp."
   avatar = "img/avatar.png"
 
 [Params]
@@ -34,7 +34,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.sidebar]
   home = "right" # Configure layout for home page
   list = "left"  # Configure layout for list pages
-  single = false # Configure layout for single pages
+  single = "right" # Configure layout for single pages
   # Enable widgets in given order
   widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
 
@@ -48,8 +48,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   twitter = "username"
   instagram = "username"
   linkedin = "username"
-  telegram = "username"
-  github = "username"
-  gitlab = "username"
-  bitbucket = "username"
   email = "example@example.com"
+
+[permalinks]
+  posts = "/:title/"

@@ -3,8 +3,8 @@ title: Communication Part-3
 author: admin
 type: post
 date: 2019-06-20T14:58:55+00:00
-excerpt: Listen and listen well.
-featured_image: /wp-content/uploads/2019/06/pexels-photo-1179802-1200x852.jpeg
+summary: Listen and listen well.
+thumbnail: /wp-content/uploads/2019/06/pexels-photo-1179802-1200x852.jpeg
 timeline_notification:
   - 1561042809
 publicize_twitter_user:

@@ -3,7 +3,7 @@ title: 'Digital Footprints- part 2'
 author: admin
 type: post
 date: 2019-08-06T14:13:27+00:00
-featured_image: /wp-content/uploads/2019/08/pexels-photo-177598-1200x800.jpeg
+thumbnail: /wp-content/uploads/2019/08/pexels-photo-177598-1200x800.jpeg
 timeline_notification:
   - 1565100882
 publicize_twitter_user:

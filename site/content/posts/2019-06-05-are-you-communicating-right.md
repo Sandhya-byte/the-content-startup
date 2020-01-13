@@ -3,7 +3,7 @@ title: Are you communicating right?
 author: admin
 type: post
 date: 2019-06-05T11:19:21+00:00
-featured_image: /wp-content/uploads/2019/06/capture.png
+thumbnail: /wp-content/uploads/2019/06/capture.png
 timeline_notification:
   - 1559733566
 publicize_twitter_user:

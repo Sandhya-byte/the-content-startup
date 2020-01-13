@@ -3,7 +3,7 @@ title: What is UPI?
 author: admin
 type: post
 date: 2018-08-23T14:55:40+00:00
-featured_image: /wp-content/uploads/2018/08/upi.jpg
+thumbnail: /wp-content/uploads/2018/08/upi.jpg
 timeline_notification:
   - 1535036203
 publicize_twitter_user:

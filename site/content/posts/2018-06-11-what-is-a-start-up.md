@@ -3,7 +3,7 @@ title: What is a start-up?
 author: admin
 type: post
 date: 2018-06-11T13:49:38+00:00
-featured_image: /wp-content/uploads/2018/06/7.jpg
+thumbnail: /wp-content/uploads/2018/06/7.jpg
 timeline_notification:
   - 1528724981
 publicize_twitter_user:

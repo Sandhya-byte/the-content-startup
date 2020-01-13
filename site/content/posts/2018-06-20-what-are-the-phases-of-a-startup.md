@@ -3,8 +3,8 @@ title: What are the phases of a startup
 author: admin
 type: post
 date: 2018-06-20T15:52:32+00:00
-excerpt: Just a brief of the Start-up route.
-featured_image: /wp-content/uploads/2018/06/6-stages-of-a-startup-e1529311788625-1200x1008.jpg
+summary: Just a brief of the Start-up route.
+thumbnail: /wp-content/uploads/2018/06/6-stages-of-a-startup-e1529311788625-1200x1008.jpg
 timeline_notification:
   - 1529509955
 publicize_twitter_user:

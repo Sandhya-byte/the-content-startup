@@ -3,7 +3,7 @@ title: The art of listening
 author: admin
 type: post
 date: 2019-07-06T15:50:34+00:00
-featured_image: /wp-content/uploads/2019/06/pexels-photo-630831-1200x822.jpeg
+thumbnail: /wp-content/uploads/2019/06/pexels-photo-630831-1200x822.jpeg
 timeline_notification:
   - 1562428238
 publicize_twitter_user:

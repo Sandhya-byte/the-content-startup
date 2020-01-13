@@ -3,7 +3,7 @@ title: Blockchain Part 2
 author: admin
 type: post
 date: 2019-01-31T16:37:50+00:00
-featured_image: /wp-content/uploads/2019/01/features.png
+thumbnail: /wp-content/uploads/2019/01/features.png
 timeline_notification:
   - 1548952673
 publicize_twitter_user:

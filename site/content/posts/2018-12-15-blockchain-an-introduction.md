@@ -3,7 +3,7 @@ title: 'Blockchain- An Introduction'
 author: admin
 type: post
 date: 2018-12-15T14:39:53+00:00
-featured_image: /wp-content/uploads/2018/12/blockchain.png
+thumbnail: /wp-content/uploads/2018/12/blockchain.png
 timeline_notification:
   - 1544884797
 publicize_twitter_user:
