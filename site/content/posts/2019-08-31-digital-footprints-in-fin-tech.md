@@ -5,8 +5,8 @@ description: Basic introduction to Fin tech.
 ---
 <p class="has-text-color has-black-color has-drop-cap">
 
-**Update**
-  Hello everyone, it has been a while, since I had touched my blog. Even though, I kept promising myself that I would get back to my writing, the focus word being &#8220;Mine&#8221;, I just couldn&#8217;t. Still Wondering why?????????
+**Update**   Hello everyone, it has been a while, since I had touched my blog. Even though, I kept promising myself that I would get back to my writing, the focus word being &#8220;Mine&#8221;, I just couldn&#8217;t. Still Wondering why?????????
+
 </p>
 
 <p class="has-text-color has-black-color">
