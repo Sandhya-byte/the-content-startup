@@ -1,18 +1,11 @@
 ---
 title: Digital footprints in Fin tech
-author: admin
-type: post
-date: 2019-08-31T08:16:15+00:00
-summary: "My understanding of Io T's role in fin tech ecosystem"
-thumbnail: /wp-content/uploads/2019/08/pexels-photo-1148820-1200x801.jpeg
-timeline_notification:
-  - 1567239378
-publicize_twitter_user:
-  - Sandhyasthought
-categories:
-  - My rantings
+date: 2019-08-31T08:16:15.000Z
+description: Basic introduction to Fin tech.
 ---
 <p class="has-text-color has-black-color has-drop-cap">
+
+**Update**
   Hello everyone, it has been a while, since I had touched my blog. Even though, I kept promising myself that I would get back to my writing, the focus word being &#8220;Mine&#8221;, I just couldn&#8217;t. Still Wondering why?????????
 </p>
 
