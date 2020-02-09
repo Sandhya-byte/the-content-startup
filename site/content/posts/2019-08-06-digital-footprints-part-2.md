@@ -1,23 +1,14 @@
 ---
-title: 'Digital Footprints- part 2'
-author: admin
-type: post
-date: 2019-08-06T14:13:27+00:00
+title: Digital Footprints- part 2
+date: 2019-08-06T14:13:27.000Z
+description: Let's talk more about IoT.
 thumbnail: /wp-content/uploads/2019/08/pexels-photo-177598-1200x800.jpeg
-timeline_notification:
-  - 1565100882
-publicize_twitter_user:
-  - Sandhyasthought
+type: post
 categories:
   - My rantings
-tags:
-  - fintech
-  - tech
-
 ---
-<p class="has-text-color has-drop-cap has-black-color">
   Hello all, a while back I had given a short intro on Io T and <a href="https://sandhyasthoughtsblog.wordpress.com/2019/07/27/digital-footprints/">click here to read the blog.</a> Today I will be writing in detail my understanding of the tech. I am sure many of you would have seen movies where the house responds to the owner&#8217;s command in a blink of an eye. Preparing the coffee, narrating the news, movement sensitive lights and so on
-</p>
+
 
 <p class="has-text-color has-black-color">
   This action is now possible with Io T. Io T is often referred to as Io E (Internet of Everything)
@@ -26,7 +17,7 @@ tags:
 ### So, how Io T works?
 
 <p class="has-text-color has-black-color">
-  Io T is a collection of web enabled devices that collects, send and acts on the data acquired by it as and when it receives the information. These devices collects these information through sensors and other hardware and guess what they can talk with other machines as well.
+  IoT is a collection of web enabled devices that collects, send and acts on the data acquired by it as and when it receives the information. These devices collects these information through sensors and other hardware and guess what they can talk with other machines as well.
 </p>
 
 <p class="has-text-color has-black-color">
@@ -53,10 +44,10 @@ tags:
   There are four fundamental components of every Io T system:
 </p>
 
-  * **Sensors- That collect info in real-time**
-  * **Connectivity &#8211; That data collected is stored and accessed through Cloud**
-  * **Data Processing- The system works based on the data to implement the course of action.**
-  * **User -Interface- While Io T is a standalone function, it does provide the results for human contemplation and decision making.** 
+* **Sensors- That collect info in real-time**
+* **Connectivity &#8211; That data collected is stored and accessed through Cloud**
+* **Data Processing- The system works based on the data to implement the course of action.**
+* **User -Interface- While Io T is a standalone function, it does provide the results for human contemplation and decision making.** 
 
 <p class="has-text-color has-black-color">
   This is it for now, next in the series will the impact of Io T in the Fintech sector. See you all soon. Until then it is, well you know
