@@ -4,17 +4,17 @@ languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
-googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+googleAnalytics = "UA-156368330" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
   name = "Sandhya Mani"
-  bio = "Sandhya works as a content manager in Big Corp."
+  bio = "Content writer, trainer and a curious person."
   avatar = "img/avatar.png"
 
 [Params]
   subtitle = "The content startup" # Subtitle of your site. Used in site header
   description = "Sandhya's thoughts" # Site description. Used in meta description
-  copyright = "Sandhya Manikantan" # Footer copyright holder, otherwise will use site title
+  copyright = "Sandhya Manikandan" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   twitter_cards = true # Enable Twitter Cards if true
   readmore = false # Show "Read more" button in list if true
@@ -44,12 +44,11 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.widgets.social]
   # Enable parts of social widget
-  facebook = "username"
-  twitter = "username"
-  instagram = "username"
-  linkedin = "username"
-  email = "example@example.com"
-  quora = "Lakshmi-Narasimhan-Parthasarathy"
+  #facebook = "username"
+  #instagram = "username"
+  linkedin = "sandhyamanikandan"
+  email = "sandhyasthoughts@gmail.com"
+  quora = "Sandhya-Manikandan"
 
 [permalinks]
   posts = "/:title/"
