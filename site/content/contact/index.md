@@ -2,12 +2,22 @@
 title: Contact
 author: admin
 type: page
-date: 2017-08-02T13:23:17+00:00
 excerpt: 'This is just a short excerpt for the contact&nbsp;page.'
-thumbnail: /wp-content/uploads/2017/08/person-smartphone-office-table-1200x800.jpeg
-sharing_disabled:
-  - 'a:1:{i:0;i:1;}'
-switch_like_status:
-  - 'a:1:{i:0;i:1;}'
+menu:
+  main:
+    name: Contact
+    weight: 15
 ---
-This is a contact page with some basic contact information and a contact form. \[contact-form\]\[contact-field label=&#8221;Name&#8221; type=&#8221;name&#8221; required=&#8221;1&#8243;/\]\[contact-field label=&#8221;Email&#8221; type=&#8221;email&#8221; required=&#8221;1&#8243;/\]\[contact-field label=&#8221;Website&#8221; type=&#8221;url&#8221;/\]\[contact-field label=&#8221;Comment&#8221; type=&#8221;textarea&#8221; required=&#8221;1&#8243;/\]\[/contact-form\]
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>

@@ -2,7 +2,7 @@
 title: About
 author: admin
 date: 2017-08-02T13:23:18+00:00
-thumbnail: /wp-content/uploads/2019/02/cropped-logo-1.png
+thumbnail: /img/sandhya-mani.jpg
 sharing_disabled:
   - 'a:1:{i:0;i:1;}'
 switch_like_status:
