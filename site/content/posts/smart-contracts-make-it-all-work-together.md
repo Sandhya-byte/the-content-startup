@@ -10,13 +10,13 @@ type: Blog post
 categories:
   - fintech
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -55,9 +55,9 @@ categories:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -636,9 +636,9 @@ categories:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -664,7 +664,7 @@ categories:
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -697,8 +697,6 @@ So, in a nutshell, there is no need for a physical contract, it speeds up transa
 
 ## What is the importance of Smart Contracts in the fintech world?
 
-
-
 Standardization code and the execution will bring down the cost of agreement and negotiations. Security is an added benefit as the transactions are encrypted and stored in an immutable way. Automated process ensures economy and speed as it reduces the time taken for a deal and avoids manual process time.
 
 Counterparty risks can be avoided with smart contracts, and also settlement risks are not to be afraid of with smart contracts. Innovation is another crucial aspect, as this leads to many new business models and foster products.
@@ -714,5 +712,9 @@ Hope you all enjoyed reading this post, thank you so much for visiting my site. 
 Signing off with my signature goodbye
 
 ***Namaste, Au Revoir, Sayonara, and a simple Vanakkam to my readers out there where ever you are and whoever you are.***
+
+
+
+***Image credits: Unsplash***
 
 <!--EndFragment-->
