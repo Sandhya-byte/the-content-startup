@@ -6,7 +6,7 @@ description: >-
   Ecosystem. Connecting players from all over the world, smart contracts are
   sure to be a game-changer.
 thumbnail: img/sebastian-herrmann-o2o1hzda7ie-unsplash.jpg
-type: 'Blog '
+type: post
 categories:
   - fintech
 ---
