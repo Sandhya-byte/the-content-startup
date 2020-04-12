@@ -70,7 +70,11 @@ This is called the “If-Then” principle 🙄🙄🙄🙄
 
 Jokes apart, Smart contracts come with the potential of tracking real-time status and also save costs
 
-Other than this significant advantage, Smart contracts come with many other benefits like:
+Other than this significant advantage, Smart contracts come with many other benefits like accuracy, automation and security.
+
+
+
+
 
 Hope you understood **how do smart contracts work** and how they benefit us in the long run. Until next time, it is time for my signature goodbye.
 
