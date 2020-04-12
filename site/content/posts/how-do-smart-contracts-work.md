@@ -8,11 +8,7 @@ type: post
 categories:
   - fintech
 ---
-
-
-Hey everyone, hope all are having a blast during this lockdown (I know it is boring, I can hear you🙄). We have been learning premium courses that are now free due to this pandemic. 😁🤩
-
-
+AccHey everyone, hope all are having a blast during this lockdown (I know it is boring, I can hear you🙄). We have been learning premium courses that are now free due to this pandemic. 😁🤩
 
 I have been learning Ahrefs Blogging for Business, along with Content Marketing, Psychotherapy, and my assignments.
 
@@ -41,8 +37,6 @@ Intrigued?
 Read on to know **how do smart contracts work**?🤔🤔🤔🤔
 
 By the way, real estate example is one of the many verticals where smart contracts come handy.
-
-
 
 In reality, Smart contracts help you in exchanging or transferring articles of value without the need for middlemen. They also have protocols in place to enforce those contracts
 
