@@ -2,6 +2,12 @@
 title: Digital footprints in Fin tech
 date: 2019-08-31T08:16:15.000Z
 description: Basic introduction to Fin tech.
+type: post
+categories:
+  - fintech
+  - my rantings
+  - rantings
+  - blog
 ---
 <p class="has-text-color has-black-color has-drop-cap">
 
@@ -10,8 +16,11 @@ description: Basic introduction to Fin tech.
 </p>
 
 <p class="has-text-color has-black-color">
-  So, on to the topic, I have been exploring the area of Io T (Internet of Things) in my previous posts. You can find them here: <a href="https://sandhyasthoughtsblog.wordpress.com/2019/07/27/digital-footprints/">Digital footprints</a> and <a href="https://sandhyasthoughtsblog.wordpress.com/2019/08/06/digital-footprints-part-2/">Digital Footprints Part 2</a>. Today, I will be writing about the impact of this tech in the fin tech universe.
-</p>
+  So, on to the topic, I have been exploring the area of Io T (Internet of Things) in my previous posts. You can find them here
+
+[Digital footprints](https://www.thecontentstartup.com/digital-footprints/)
+
+[Digital footprints-2](https://www.thecontentstartup.com/digital-footprints-part-2/)
 
 &nbsp;<figure class="wp-block-image size-large">
 
