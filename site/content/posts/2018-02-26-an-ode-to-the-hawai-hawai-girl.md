@@ -1,18 +1,18 @@
 ---
-title: An ode to the hawai-hawai girl
-author: admin
-type: post
-date: 2018-02-26T06:58:29+00:00
-thumbnail: /wp-content/uploads/2018/02/7a47a7d1-9684-4590-8f84-d7066a94faed_1519504922.jpeg
+publicize_linkedin_url:
+  - https://www.linkedin.com/updates?discuss=&scope=634628925&stype=M&topic=6373783122340868096&type=U&a=O59I
 timeline_notification:
   - 1519628312
+author: admin
 publicize_twitter_user:
   - Sandhyasthought
-publicize_linkedin_url:
-  - 'https://www.linkedin.com/updates?discuss=&scope=634628925&stype=M&topic=6373783122340868096&type=U&a=O59I'
+title: An ode to the hawai-hawai girl
+date: 2018-02-26T06:58:29.000Z
+description: My memories of the enigmatic Sridevi
+thumbnail: /wp-content/uploads/2018/02/7a47a7d1-9684-4590-8f84-d7066a94faed_1519504922.jpeg
+type: post
 categories:
   - My rantings
-
 ---
 The whole of India and its cine industry has lost its stalwart actress, Sridevi.  She was a role model to many of the girls and women across the country.  The Hawai-Hawai girl of the mid 90&#8217;s captured the heart of millions of fans. She started her career as a child artiste in Tamil films and then went on to act in all the major cine fields of the industry.
 
