@@ -1,18 +1,18 @@
 ---
-title: 'Blockchain- An Introduction'
-author: admin
-type: post
-date: 2018-12-15T14:39:53+00:00
-thumbnail: /wp-content/uploads/2018/12/blockchain.png
-timeline_notification:
-  - 1544884797
-publicize_twitter_user:
-  - Sandhyasthought
 publicize_linkedin_url:
   - www.linkedin.com/updates?topic=6479716501141192704
+timeline_notification:
+  - 1544884797
+author: admin
+publicize_twitter_user:
+  - Sandhyasthought
+title: Blockchain- An Introduction
+date: 2018-12-15T14:39:53.000Z
+description: Blockchain- what exactly is it?
+thumbnail: /wp-content/uploads/2018/12/blockchain.png
+type: post
 categories:
   - My rantings
-
 ---
 <blockquote class="wp-block-quote">
   <p>
@@ -26,7 +26,7 @@ categories:
 
 Hello everyone, hope all are having a great time in their lives, if not then, don&#8217;t worry, you will back on your feet sooner than you can blink. After all, there is no fun, if there are no challenges right(easier to say than to experience, yup I can hear your mind voice). Anyways back on track.
 
-As it happens, I have been increasingly getting interested in the fintech happenings all over the world, and now the term &#8220;Blockchain&#8221; has got my attention. I hope you guys remember when I wrote about cryptocurrency aka Bitcoin and its features along with our country&#8217;s regulations. If not here is the link for both [post no.1][1] and [post no.2][2]
+As it happens, I have been increasingly getting interested in the fintech happenings all over the world, and now the term &#8220;Blockchain&#8221; has got my attention. I hope you guys remember when I wrote about cryptocurrency aka Bitcoin and its features along with our country&#8217;s regulations. If not here is the link for both [post no.1](https://www.thecontentstartup.com/cryptocurrency/) and [post no.2](https://www.thecontentstartup.com/the-heads-and-tails-of-cryptocurrency/)
 
 Today, I am writing about &#8220;Blockchain&#8221; that is a term often associated with this cryptocurrency. Once again, I thank my banker friend for his invaluable assistance in sending the material and pushing me to write.
 
@@ -52,17 +52,8 @@ As usual, Namaste, Au Revoir, Sayonara and a simple Vanakkam to my readers out 
 
 image credit: INTHEBLACK
 
-
+&nbsp;
 
 &nbsp;
 
-
-
 &nbsp;
-
-
-
-&nbsp;
-
- [1]: https://sandhyasthoughtsblog.wordpress.com/2017/10/12/cryptocurrency/
- [2]: https://sandhyasthoughtsblog.wordpress.com/2018/08/08/the-sides-of-cryptocurrency/
