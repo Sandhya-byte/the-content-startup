@@ -1,27 +1,27 @@
 ---
-title: Blockchain Part 2
-author: admin
-type: post
-date: 2019-01-31T16:37:50+00:00
-thumbnail: /wp-content/uploads/2019/01/features.png
-timeline_notification:
-  - 1548952673
-publicize_twitter_user:
-  - Sandhyasthought
 publicize_linkedin_url:
   - www.linkedin.com/updates?topic=6496778411162337280
+timeline_notification:
+  - 1548952673
+author: admin
+publicize_twitter_user:
+  - Sandhyasthought
+title: Blockchain Part 2
+date: 2019-01-31T16:37:50.000Z
+description: Know the intricacies of Blockchain in this post
+thumbnail: /wp-content/uploads/2019/01/features.png
+type: post
 categories:
   - My rantings
-
 ---
-Hello all, it&#8217;s been a long time since I had devoted time for my inclinations. So, finally had some free time to learn some more about blockchain. Anyways for the little brush up do read my [blockchain introduction][1] (click on the word) blog as it will give you an idea on what I am rambling about.
+Hello all, it&#8217;s been a long time since I had devoted time for my inclinations. So, finally had some free time to learn some more about blockchain. Anyways for the little brush up do read my [blockchain introduction](https://www.thecontentstartup.com/blockchain-an-introduction/) (click on the word) blog as it will give you an idea on what I am rambling about.
 
 One more thing, I have also started watching videos on Ted Talks and strongly recommend that you do the same. It is refreshing to experience many viewpoints and see how our future will be shaped. Thanks to my new friend, I have started reading about Peter Thiel, Elon Musk and many others. They are also commonly known as the Paypal mafia. Whichever companies these guys have invested in are now a billion dollar industry. So, do give it a try as Ted Talks also feature these people and you can know more about them first-hand.
 
 Now, we are back to base:
 
 BLOCKCHAIN PART 2 where I will be discussing what sets blockchain apart from technologies of now. I have listed out the features of blockchain as understood by me. So, bear with me and if you are finding little difficult to understand then do give me a comment.
-  
+
 Here are the features of Blockchain(Finally, yeah I can hear you!)
 
 **Data structure**
@@ -51,5 +51,3 @@ Image credits: Medium.com
 &nbsp;
 
 &nbsp;
-
- [1]: https://sandhyasthoughtsblog.wordpress.com/2018/12/15/blockchain-an-introduction/
