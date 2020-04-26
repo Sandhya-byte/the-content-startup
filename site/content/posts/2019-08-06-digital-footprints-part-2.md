@@ -7,12 +7,11 @@ type: post
 categories:
   - My rantings
 ---
-  Hello all, a while back I had given a short intro on Io T and <a href="https://sandhyasthoughtsblog.wordpress.com/2019/07/27/digital-footprints/">click here to read the blog.</a> Today I will be writing in detail my understanding of the tech. I am sure many of you would have seen movies where the house responds to the owner&#8217;s command in a blink of an eye. Preparing the coffee, narrating the news, movement sensitive lights and so on
+  Hello all, a while back I had given a short intro on Io T and [click here to read the blog.](https://www.thecontentstartup.com/digital-footprints/) Today I will be writing in detail my understanding of the tech. I am sure many of you would have seen movies where the house responds to the owner’s command in a blink of an eye. Preparing the coffee, narrating the news, movement sensitive lights and so on
 
+This action is now possible with Io T. Io T is often referred to as Io E (Internet of Everything)
 
-<p class="has-text-color has-black-color">
-  This action is now possible with Io T. Io T is often referred to as Io E (Internet of Everything)
-</p>
+<!--EndFragment-->
 
 ### So, how Io T works?
 
