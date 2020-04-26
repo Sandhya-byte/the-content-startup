@@ -8,7 +8,7 @@ type: post
 categories:
   - fintech
 ---
-AccHey everyone, hope all are having a blast during this lockdown (I know it is boring, I can hear you🙄). We have been learning premium courses that are now free due to this pandemic. 😁🤩
+Hey everyone, hope all are having a blast during this lockdown (I know it is boring, I can hear you🙄). We have been learning premium courses that are now free due to this pandemic. 😁🤩
 
 I have been learning Ahrefs Blogging for Business, along with Content Marketing, Psychotherapy, and my assignments.
 
@@ -71,10 +71,6 @@ This is called the “If-Then” principle 🙄🙄🙄🙄
 Jokes apart, Smart contracts come with the potential of tracking real-time status and also save costs
 
 Other than this significant advantage, Smart contracts come with many other benefits like accuracy, automation and security.
-
-
-
-
 
 Hope you understood **how do smart contracts work** and how they benefit us in the long run. Until next time, it is time for my signature goodbye.
 
