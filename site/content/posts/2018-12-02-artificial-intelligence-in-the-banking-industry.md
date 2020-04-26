@@ -1,18 +1,18 @@
 ---
-title: Artificial Intelligence in the banking industry
-author: admin
-type: post
-date: 2018-12-02T11:58:26+00:00
-thumbnail: /wp-content/uploads/2018/11/capture.jpg
-timeline_notification:
-  - 1543752075
-publicize_twitter_user:
-  - Sandhyasthought
 publicize_linkedin_url:
   - www.linkedin.com/updates?topic=6474965516992778240
+timeline_notification:
+  - 1543752075
+author: admin
+publicize_twitter_user:
+  - Sandhyasthought
+title: Artificial Intelligence in the banking industry
+date: 2018-12-02T11:58:26.000Z
+description: Know more about artificial intelligence and its impact in banking
+thumbnail: /wp-content/uploads/2018/11/capture.jpg
+type: post
 categories:
   - My rantings
-
 ---
 <blockquote class="wp-block-quote">
   <p>
@@ -22,7 +22,7 @@ categories:
 
 Hello everyone, hope all are in good spirits and excellent health. Here is the follow-up topic that I promised you guys a while back. In the earlier article, I had drawn up a general framework of A.I and how it works; now I&#8217;m detailing its impact in the banking industry.
 
-[click here for that post][1]
+[click here for that post](https://www.thecontentstartup.com/artificial-intelligence/)
 
 By the way, a great many thanks to the banker friend of mine who sent me the material many months ago, and I am using it now(better late than never right!). So, chugging on
 
@@ -45,5 +45,3 @@ So, now is a great time to be a Data scientist, A.I engineer or any other profes
 To sum it up, Artificial Intelligence can give great potential to the humankind. It has to be implemented in a way that it complements our lives and does not control it (we have seen great many Hollywood movies, so I urge the experts to take precautions).
 
 Hope you all loved the post.  As usual, Namaste, Au Revoir, Sayonara and a simple Vanakkam to my readers out there where ever you are and whoever you are.
-
- [1]: https://sandhyasthoughtsblog.wordpress.com/2018/10/03/artificial-intelligence/
