@@ -1,22 +1,22 @@
 ---
-title: Are you communicating right?
-author: admin
-type: post
-date: 2019-06-05T11:19:21+00:00
-thumbnail: /wp-content/uploads/2019/06/capture.png
 timeline_notification:
   - 1559733566
+author: admin
 publicize_twitter_user:
   - Sandhyasthought
+title: Are you communicating right?
+date: 2019-06-05T11:19:21.000Z
+description: Let's communicate the right way
+thumbnail: /wp-content/uploads/2019/06/capture.png
+type: post
 categories:
   - My rantings
-
 ---
 Hello, everyone, I am back with a new post this week. Last week, I was discussing certain points related to the subject of productivity. I specifically asked you all to take a breather before putting everything on your head. Hope you all are following at least some of them.
 
 Now we are on to the next topic of communication. I am pretty sure most of you would think this is the same old article of talking well, precise and clear. I assure you it is not, as communication is the one thing that defines us as humans. I am going to explore the finer points of communication or its subtlety that helps us in creating a unique identity.
 
-<figure id="attachment_media-55" aria-describedby="caption-attachment-media-55" style="width: 1880px" class="wp-caption alignnone"><img class="alignnone size-full wp-image-422" src="/wp-content/uploads/2019/06/pexels-photo-1120344.jpeg" alt="man in brown long sleeved button up shirt standing while using gray laptop computer on brown wooden table beside woman in gray long sleeved shirt sitting" width="1880" height="1253" srcset="/wp-content/uploads/2019/06/pexels-photo-1120344.jpeg 1880w, /wp-content/uploads/2019/06/pexels-photo-1120344-300x200.jpeg 300w, /wp-content/uploads/2019/06/pexels-photo-1120344-1024x682.jpeg 1024w, /wp-content/uploads/2019/06/pexels-photo-1120344-768x512.jpeg 768w, /wp-content/uploads/2019/06/pexels-photo-1120344-1536x1024.jpeg 1536w, /wp-content/uploads/2019/06/pexels-photo-1120344-1200x800.jpeg 1200w" sizes="(max-width: 1880px) 100vw, 1880px" /><figcaption id="caption-attachment-media-55" class="wp-caption-text">Photo by rawpixel.com on <a href="https://www.pexels.com/photo/man-in-brown-long-sleeved-button-up-shirt-standing-while-using-gray-laptop-computer-on-brown-wooden-table-beside-woman-in-gray-long-sleeved-shirt-sitting-1120344/" rel="nofollow">Pexels.com</a></figcaption></figure>
+
 
 Before we jump into the topic, I am going to tell you a story of my communication skill development:
 
