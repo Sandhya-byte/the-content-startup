@@ -9,8 +9,6 @@ categories:
   - my rantings
   - tech
 ---
-
-
 Hey guys, hope all are doing good and keeping yourselves engaged during this time of crisis😊😊. As you all know, I have been blogging about [smart contracts](https://www.thecontentstartup.com/how-do-smart-contracts-work/) and how they impact many verticals, especially real estate.
 
 Moreover, real estate has not been a recipient of significant technological changes for decades. It is still following the same process, if not more, and takes a minimum a month to 45 days for a sale.
@@ -41,8 +39,6 @@ So, in a nutshell, this whole process takes weeks sometimes months even🙄🙄,
 
 But in Smart Contracts, the system will root out any potential complexities like multiple ownership (except verified and registered owners)
 
-
-
 ## How **smart contracts work** in Blockchain?
 
 In a Blockchain environment, A would buy and own the asset in a digital manner. This process is known as **Tokenization.**
@@ -62,8 +58,8 @@ So, you get security, speed, and ease of transfer from one single contract. More
 
 Smart contracts reduce the risk of fraud and interference of third parties.
 
-***Stay Safe and Stay home and keep pushing yourself to be better always!!!!***
-
 Now it is time for my signature Goodbye 🙋‍♀️🙋‍♀️
+
+***Stay Safe and Stay home and keep pushing yourself to be better always!!!!***
 
 As usual, Namaste, Au Revoir, Sayonara, and a simple Vanakkam to my readers out there where ever you are and whoever you are.
