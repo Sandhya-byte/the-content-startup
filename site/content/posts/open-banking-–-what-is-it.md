@@ -26,7 +26,7 @@ Our usual methods were:
 
 1. Assigning the task of repayment to a retired person typically it was the grandfather’s duty.
 2. Paying it by check or cash.
-3.  Then came the novelty of paying it through ECS (Electronic Clearing System)
+3. Then came the novelty of paying it through ECS (Electronic Clearing System)
 
 Now back to the present, how do we do it now???
 
@@ -69,3 +69,7 @@ I am now using my hashtag **\#sandhyasays** on LinkedIn. So, follow it to stay i
 **Stay Safe and Stay home and keep pushing yourself to be better always!!!!**
 
 As usual, Namaste, Au Revoir, Sayonara, and a simple Vanakkam to my readers out there where ever you are and whoever you are.
+
+Photo Credit: 
+
+Nathan Dumlao on Unsplash
