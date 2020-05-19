@@ -50,7 +50,7 @@ Open Banking is the agreement between a bank and customer to share the latter’
 
 In a nutshell, Open Banking aims to offer the best user experience. For example, reduced loan processing, easy switch of loan or bank accounts, finding credit cards with a lower interest rate, and so on.
 
-Tidbit: Open Banking is one of the deriavatives of PSD2 (Second Payment Services Directive) designed by the countries of the European Union.
+Titbit: Open Banking is one of the derivatives of PSD2 (Second Payment Services Directive) designed by the countries of the European Union.
 
 Open Banking acts as a motivational point for designing new fintech products. It holds the key to data insights currently revolutionizing the banking industry.
 
@@ -64,7 +64,7 @@ When applying for credit with different lenders, you don’t need to go through 
 
 You can pay by any method you chose to pay with, not only the normal banking channels.
 
-While these are the benefits, there are some huge potential risks too. Well, that is a question for another day.
+While these are the benefits, there are some huge potential risks too. Well, that is a question for another day and another post. It is time to now wrap up
 
 So, here is my signature goodbye
 
