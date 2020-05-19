@@ -50,7 +50,7 @@ Open Banking is the agreement between a bank and customer to share the latter’
 
 In a nutshell, Open Banking aims to offer the best user experience. For example, reduced loan processing, easy switch of loan or bank accounts, finding credit cards with a lower interest rate, and so on.
 
-Tidbit: Open Banking is also known as PSD2 (Second Payment Services Directive)
+Tidbit: Open Banking is one of the deriavatives of PSD2 (Second Payment Services Directive) designed by the countries of the European Union.
 
 Open Banking acts as a motivational point for designing new fintech products. It holds the key to data insights currently revolutionizing the banking industry.
 
@@ -75,6 +75,8 @@ I am now using my hashtag **\#sandhyasays** on LinkedIn. So, follow it to stay i
 **Stay Safe and Stay home and keep pushing yourself to be better always!!!!**
 
 As usual, Namaste, Au Revoir, Sayonara, and a simple Vanakkam to my readers out there where ever you are and whoever you are.
+
+**Disclaimer: Open Banking is an entity that is governed by specific regions and regulations applicable to that region. It differs from country to country.** 
 
 Photo Credit: 
 
