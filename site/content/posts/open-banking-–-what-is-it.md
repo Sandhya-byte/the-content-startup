@@ -64,7 +64,7 @@ When applying for credit with different lenders, you don’t need to go through 
 
 You can pay by any method you chose to pay with, not only the normal banking channels.
 
-While these are the benefits, there are some huge potential risks too. Well, that is a question for another day and another post. It is time to now wrap up
+While these are the benefits, there are some huge potential risks too. Well, that is a question for another day and another post. It is time to wrap up now.
 
 So, here is my signature goodbye
 
