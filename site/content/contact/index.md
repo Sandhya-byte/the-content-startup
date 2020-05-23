@@ -2,6 +2,7 @@
 title: Contact
 author: admin
 type: page
+comments: false
 excerpt: 'This is just a short excerpt for the contact&nbsp;page.'
 menu:
   main:
