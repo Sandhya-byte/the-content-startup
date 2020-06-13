@@ -22,11 +22,9 @@ Open banking is a tech jargon that is synonymous with Fintech, and many startups
 
 We know that banking is a concoction of services of loan, debit, credit, net banking, and so on……
 
-The process of these services often remain a mystery to many, but Open Banking hasopened this secret process
+The process of these services often remain a mystery to many, but Open Banking has opened this secret process
 
-Open banking is where your financial data is shared with financial institutions and fintech companies to offer customized services.
-
-
+Open banking is where your financial data is shared with financial institutions and fin tech companies to offer customized services.
 
 **So, what else are the benefits of this Open Banking?**
 
@@ -43,8 +41,6 @@ So, right now, the UPI or Unified Payment Interface is the one that has adopted 
 
 They integrate with the ERP systems, perform e-KYC, PAN verification, offer lending and payment solutions, create innovative products by collaborating with third-parties and so much more.
 
-
-
 But, many banks are now slowly exploring this field and we have many more miles to go due to intense regulatory limitations.
 
 We still have hope and opportunities to turn the tables in the right way to reap the benefits of this open banking system. India is a land of creative business and diversified user behavior due to cultural differences.
@@ -53,7 +49,7 @@ It takes an innovative approach to establish Open banking in India without break
 
 What is your thought on bringing such a system into India?🤔🤔
 
-Do let me know!!! And follow my hashtag #sandhyasays on LinkedIn to know more about Fintech.
+Do let me know!!! And follow my hashtag **\#sandhyasays** on LinkedIn to know more about Fintech.
 
 My next article will explore the advent of Open Banking in Europe and its current scenario and reach.
 
