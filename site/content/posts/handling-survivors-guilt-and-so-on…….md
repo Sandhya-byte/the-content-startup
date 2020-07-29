@@ -5,14 +5,12 @@ description: The ways of tackling a survivor's guilt
 thumbnail: img/633.jpg
 type: post
 categories:
-  - my rantings
   - blog
   - post
+  - my rantings
   - psychology
 ---
-
-
-Well, hey guys, just like I said many moons ago that I will be writing about some psychology topics in my last blog. Here is one for you ponder over the weekend, well don't be so surprised, I did give you guys a heads-up that will be sharing my Gyan of Psychology in the coming weeks.
+Well, hey guys, just like I said many moons ago that I will be writing about some psychology topics in the coming weeks. Here is one for you to ponder over the weekend, well don't be so surprised, I did give you guys a heads-up that will be sharing my Gyan of Psychology in the coming weeks.
 
 So, getting into the topic, I was accosted by some of my friends, colleagues, acquaintances, and even passers-by while standing at a supermarket scrounging for last-minute dinner ideas. You know what was the repeated statement everywhere?
 
@@ -58,8 +56,12 @@ Connect with people, be it neighbors, friends, or family, stay connected with th
 
 There is always help around, and it is given to those who seek it.
 
+It is not a taboo to talk about how you feel, there are people to support you. Make good use of it, get a shoulder to cry ,and be a shoulder to lean on as I always say:
+
+### ***Relationships are a two-way street, it is never one- way***
+
 That being said, here comes my signature goodbye
 
 Namaste, Au Revoir, Sayonara, and a simple Vanakkam to my readers out there where ever you are and whoever you are.
 
-Image Credits: Freepik, Diana Grytsku
+> Image Credits: Freepik, Diana Grytsku
