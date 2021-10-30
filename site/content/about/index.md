@@ -1,9 +1,10 @@
 ---
 title: About
 author: admin
-date: 2017-08-02T13:23:18+00:00
-thumbnail:
-comments: false
+date: 2021-10-30T13:23:18+00:00
+thumbnail:(https://user-images.githubusercontent.com/55226367/139533880-697fb2a7-475c-44e7-b67f-c395f73b50d2.jpeg)
+comments: false![41831E22-F783-4220-BA83-85477395CC98_1_105_c]
+
 sharing_disabled:
   - 'a:1:{i:0;i:1;}'
 switch_like_status:
