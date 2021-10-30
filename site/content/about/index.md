@@ -2,7 +2,7 @@
 title: About
 author: admin
 date: 2017-08-02T13:23:18+00:00
-thumbnail: /img/sandhya-mani.jpg
+thumbnail:
 comments: false
 sharing_disabled:
   - 'a:1:{i:0;i:1;}'
